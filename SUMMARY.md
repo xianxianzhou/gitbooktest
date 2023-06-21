@@ -43,7 +43,6 @@
     * [Multisig](guides/keys-wallets/multisig.md)
     * [Keplr](guides/keys-wallets/keplr.md)
   * [keys-wallets](guides/keys-wallets-1/README.md)
-    *
     * [Hardhat: Deploying a Smart Contract](guides/keys-wallets-1/hardhat-deploying-a-smart-contract.md)
     * [Truffle: Deploying a Smart Contract](guides/keys-wallets-1/truffle-deploying-a-smart-contract.md)
   * [Validators](guides/validators/README.md)
@@ -53,7 +52,6 @@
     * [Validator Security Checklist](guides/validators/validator-security-checklist.md)
     * [Validator FAQ](guides/validators/validator-faq.md)
     * [\[disk\_optimization\](validators/ Disk Usage Optimization.md)](guides/validators/disk\_optimization-validators-disk-usage-optimization.md.md)
-  *
   * [Key Management System](guides/key-management-system/README.md)
     * [Tendermint KMS](guides/key-management-system/tendermint-kms.md)
   * [State Sync](guides/state-sync.md)
