@@ -61,7 +61,7 @@
 * [MAINNET](mainnet/README.md)
   * [Joining a Mainnet](mainnet/join.md)
   * [Block Explorers](mainnet/explorer.md)
-* [TESTNET](mainnet/README.md)
+* [TESTNET](testnet/README.md)
   * [Joining a Testnet](testnet/join.md)
   * [Testnet Faucet](testnet/faucet.md)
   * [Block Explorers](testnet/explorer.md)
