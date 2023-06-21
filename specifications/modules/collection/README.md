@@ -1,11 +1,4 @@
-<!--
-order: 0
-title: Collection Overview
-parent:
-  title: "Collection"
--->
-
-# Collection Specification
+# Collection Overview
 
 ## Overview
 
@@ -15,20 +8,20 @@ NFTs on application specific blockchains share some but not all features as thei
 
 ## Contents
 
-1. **[State](./01_state.md)**
-   - [NFT](./01_state.md#nft)
-   - [Collections](./01_state.md#collections)
-   - [Owners](./01_state.md#owners)
-1. **[Messages](./02_messages.md)**
-   - [Issue Denom](./02_messages.md#msgissuedenom)
-   - [Transfer Denom](./02_messages.md#msgtransferdenom)
-   - [Transfer NFT](./02_messages.md#msgtransfernft)
-   - [Edit NFT](./02_messages.md#msgtransfernft)
-   - [Mint NFT](./02_messages.md#msgmintnft)
-   - [Burn NFT](./02_messages.md#msgburnnft)
-1. **[Events](./03_events.md)**
-   - [Handlers](03_events.md#handlers)
-1. **[Future Improvements](./04_future_improvements.md)**
+1. [**State**](broken-reference)
+   * [NFT](broken-reference)
+   * [Collections](broken-reference)
+   * [Owners](broken-reference)
+2. [**Messages**](02\_messages.md)
+   * [Issue Denom](02\_messages.md#msgissuedenom)
+   * [Transfer Denom](02\_messages.md#msgtransferdenom)
+   * [Transfer NFT](02\_messages.md#msgtransfernft)
+   * [Edit NFT](02\_messages.md#msgtransfernft)
+   * [Mint NFT](02\_messages.md#msgmintnft)
+   * [Burn NFT](02\_messages.md#msgburnnft)
+3. [**Events**](03\_events.md)
+   * [Handlers](03\_events.md#handlers)
+4. [**Future Improvements**](04\_future\_improvements.md)
 
 ## A Note on Metadata & IBC
 
