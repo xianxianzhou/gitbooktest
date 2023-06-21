@@ -85,4 +85,4 @@
 * [Resources](resources/README.md)
   * [Uptick API Reference](resources/uptick-api-reference.md)
   * [Ethermint Library API Reference](resources/ethermint-library-api-reference.md)
-  * [JSON-RPC Methods](api/json-rpc/endpoints.md)
+  * [JSON-RPC Reference](api/json-rpc/endpoints.md)
