@@ -71,7 +71,7 @@
   * [Ethermint Library API Reference](resources/ethermint-library-api-reference.md)
 * [Specifications](specifications/README.md)
   * [Modules](specifications/modules/README.md)
-    * [Collection](specifications/modules/collection/README.md)
+    * [Collection]
       * [Collection Overview](specifications/modules/collection/README.md)
       * [Messages](specifications/modules/collection/02\_messages.md)
       * [Events](specifications/modules/collection/03\_events.md)
