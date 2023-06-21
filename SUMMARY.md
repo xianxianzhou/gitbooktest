@@ -1,7 +1,18 @@
 # Table of contents
 
 * [Page](README.md)
+* [intro](intro/README.md)
+  * [architecture](intro/architecture.md)
+  * [clients](intro/clients.md)
+  * [overview](intro/overview.md)
+  * [resources](intro/resources.md)
+  * [use_cases](intro/use_cases.md)
 * [api](api/README.md)
   * [json-rpc](api/json-rpc/README.md)
     * [endpoints](api/json-rpc/endpoints.md)
+    * [events](api/json-rpc/events.md)
+    * [namespaces](api/json-rpc/namespaces.md)
+    * [server](api/json-rpc/server.md)
+    * [running_server](api/json-rpc/running_server.md)
+  * [Protobuf Documentation](api/sdk.md)
   * [Protobuf Documentation](api/proto-docs.md)
